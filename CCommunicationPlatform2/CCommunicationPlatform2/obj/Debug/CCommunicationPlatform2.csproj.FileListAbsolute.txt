@@ -1,0 +1,17 @@
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\bin\Debug\CCommunicationPlatform2.exe.config
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\bin\Debug\CCommunicationPlatform2.exe
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\bin\Debug\CCommunicationPlatform2.pdb
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\bin\Debug\Newtonsoft.Json.dll
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\bin\Debug\Newtonsoft.Json.xml
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.csprojAssemblyReference.cache
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.LogIn.resources
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.MainWindow.resources
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.Properties.Resources.resources
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.csproj.GenerateResource.cache
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.csproj.CoreCompileInputs.cache
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.csproj.CopyComplete
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.exe
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.pdb
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.Forms.CourseCell.resources
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.Forms.AddCourse.resources
+D:\University\Junior_1\Code\C#\CCommuniPlatform\CCommunicationPlatform2\CCommunicationPlatform2\obj\Debug\CCommunicationPlatform2.Forms.AddSCourse.resources
